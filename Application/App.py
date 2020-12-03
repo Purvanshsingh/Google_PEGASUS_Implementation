@@ -23,7 +23,6 @@ def predictRoute():
 
     :return: Abstract summary.
 
-    wrriten by : Purvansh Singh
     Version : 1.0
     """
     data = request.json['data']
